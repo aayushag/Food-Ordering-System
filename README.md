@@ -1,0 +1,2 @@
+# Food-Ordering-System
+The project titled Food Ordering System is food ordering database software for monitoring and controlling the transactions in a restaurant. The project “Food Ordering System” mainly focuses on ordering of food online which include placing order, cancel order and changing the order. It has also a facility where the user can give complaints about the food. The manager after logging into his account i.e. admin account can cancel the order, change the status of the order, validate and in-validate users and answer to complaints (i.e. tickets in this system)
